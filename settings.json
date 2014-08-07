@@ -1,0 +1,5 @@
+{
+  "audio.volume.notification": 10,
+  "audio.volume.telephony": 3,
+  "screen.timeout": "60",
+}

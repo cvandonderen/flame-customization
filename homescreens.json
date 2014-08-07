@@ -1,0 +1,32 @@
+{
+  "homescreens": [
+    [
+      ["apps", "communications", "dialer"],
+      ["apps", "sms"],
+      ["apps", "communications", "contacts"],
+      ["apps", "browser"],
+      ["apps", "email"],
+      ["apps", "camera"],
+      ["external-apps", "facebook"]
+    ], [
+      ["apps/homescreen/collections", "social"],
+      ["apps/homescreen/collections", "games"],
+      ["apps/homescreen/collections", "music"]
+    ], [
+      ["apps", "gallery"],
+      ["apps", "video"],
+      ["apps", "music"],
+      ["external-apps", "hubii"],
+      ["external-apps", "heremaps"],
+      ["external-apps", "wikipedia"],
+      ["external-apps", "marketplace.firefox.com"],
+      ["apps", "settings"],
+      ["apps", "calendar"],
+      ["apps", "clock"],
+      ["external-apps", "theweatherchannel"],
+      ["apps", "fm"]
+    ], [
+      ["apps", "costcontrol"]
+    ]
+  ],
+}
