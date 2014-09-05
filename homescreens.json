@@ -24,8 +24,7 @@
       ["apps", "calendar"],
       ["apps", "clock"],
       ["external-apps", "theweatherchannel"],
-      ["apps", "fm"]
-    ], [
+      ["apps", "fm"],
       ["apps", "costcontrol"]
     ]
   ]
